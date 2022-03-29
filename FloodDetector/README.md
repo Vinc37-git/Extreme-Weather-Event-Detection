@@ -12,4 +12,4 @@ Please have a look at those for getting detailled information about the processi
 
 Below are some random SAR images and performed predictions, respectively.
 
-![predictionsh5](https://user-images.githubusercontent.com/78846141/160620414-64e7d8bf-ccfc-4791-a2f6-c66cdb16eaec.png)
+![predictionsh5](https://user-images.githubusercontent.com/78846141/160620676-d4fa8b4e-2503-4da5-9a1a-2d5c77793c48.png)
